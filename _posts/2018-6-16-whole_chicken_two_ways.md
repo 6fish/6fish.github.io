@@ -21,3 +21,8 @@ food_array:
 ![soup vegetables]({{ site.baseurl }}/images/whole_chicken_two_ways/soup_veggies.jpg)
 ![soup before bok]({{ site.baseurl }}/images/whole_chicken_two_ways/soup_daikon_mushroom.jpg)
 ![fin soup]({{ site.baseurl }}/images/whole_chicken_two_ways/soup_bak_choy.jpg)
+![marinate]({{ site.baseurl }}/images/whole_chicken_two_ways/marinating.jpg)
+![slice_pepper]({{ site.baseurl }}/images/whole_chicken_two_ways/slice_pepper.jpg)
+![peppers]({{ site.baseurl }}/images/whole_chicken_two_ways/pepper_onion.jpg)
+![stir_fry]({{ site.baseurl }}/images/whole_chicken_two_ways/stir_fry.jpg)
+![finished]({{ site.baseurl }}/images/whole_chicken_two_ways/finished_stir.jpg)
