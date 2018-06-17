@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Whole Chicken, Two Ways
+date: 2018-06-16
 
 food_array:
   -raw
@@ -18,10 +19,12 @@ food_array:
  * Ginger
  * Garlic
  * Mushrooms
- > * Shitake
- > * Enoki
- > * Oyster
+  * Shitake
+  * Enoki
+  * Oyster
  * Bok choy
+ * Chicken stock cube
+
 ![raw chicken]({{ site.baseurl }}/images/whole_chicken_two_ways/raw.jpg)
 ![broth]({{ site.baseurl }}/images/whole_chicken_two_ways/brothing.jpg)
 ![daikon]({{ site.baseurl }}/images/whole_chicken_two_ways/daikon_slice.jpg)
@@ -31,8 +34,24 @@ food_array:
 ![fin soup]({{ site.baseurl }}/images/whole_chicken_two_ways/soup_bak_choy.jpg)
 
 ## 2. Stir-fry
+### Ingredients:
+ * Chicken meat
+  * Breast
+  * Thigh
+  * Drumstick
+ * Ginger
+ * Garlic
+ * Spring onions
+ * Bell peppers
+ * onions
+ * Sesame oil
+ * Soy sauce
+
 ![marinate]({{ site.baseurl }}/images/whole_chicken_two_ways/marinating.jpg)
 ![slice_pepper]({{ site.baseurl }}/images/whole_chicken_two_ways/slice_pepper.jpg)
 ![peppers]({{ site.baseurl }}/images/whole_chicken_two_ways/pepper_onion.jpg)
 ![stir_fry]({{ site.baseurl }}/images/whole_chicken_two_ways/stir_fry.jpg)
 ![finished]({{ site.baseurl }}/images/whole_chicken_two_ways/finished_stir.jpg)
+
+## 3. All together
+![all done]({{ site.baseurl }}/images/whole_chicken_two_ways/finished.jpg)
