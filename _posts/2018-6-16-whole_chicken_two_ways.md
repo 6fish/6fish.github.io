@@ -11,6 +11,7 @@ food_array:
   -soup_veggies
   -soup_daikon_mushroom
   -soup_bak_choy
+---
 
 ## Deconstructed Chicken
 
@@ -72,8 +73,9 @@ Then we prepared the accompannying vegetables: sliced peppers and onions.
 After letting the chicken marinate for several hours, we carcaramelize the onions.
 ![stir_fry]({{ site.baseurl }}/images/whole_chicken_two_ways/stir_fry.jpg)
 
-Next we add the chicken and peppers and cook
+Next we add the chicken and peppers and cook until the chicken is moist and tender and let simmer. 
 ![finished]({{ site.baseurl }}/images/whole_chicken_two_ways/finished_stir.jpg)
 
 ## All together
+Tada!
 ![all done]({{ site.baseurl }}/images/whole_chicken_two_ways/finished.jpg)
