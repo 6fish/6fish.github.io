@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, we're Six and Fish, two millenials who love food and fitness. This is a documentation of our adventures together through different meals (and maybe more). 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
