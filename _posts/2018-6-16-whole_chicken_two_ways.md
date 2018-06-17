@@ -52,17 +52,17 @@ Five minutes before serving we add the bok choy.
 
 ## 2. Stir-fry
 ### Ingredients:
- * Chicken meat
+* Chicken meat
   * Breast
   * Thigh
   * Drumstick
- * Ginger
- * Garlic
- * Spring onions
- * Bell peppers
- * Onions
- * Sesame oil
- * Soy sauce
+* Ginger
+* Garlic
+* Spring onions
+* Bell peppers
+* Onions
+* Sesame oil
+* Soy sauce
 
 We slice the chicken meat into bite size pieces. We then marinate it in a bath of sesame oil, soy sauce, spring onions, and minced ginger and garlic.
 ![marinate]({{ site.baseurl }}/images/whole_chicken_two_ways/marinating.jpg)
