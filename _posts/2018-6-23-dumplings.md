@@ -4,8 +4,9 @@ title: Dumplings
 date: 2018-06-23
 ---
 
-## Dumplings
+## Pork and Cabbage Dumplings
 
+For this week's cooking expedition, it's going back to our roots: dumplings! Six's 
 ![1]({{ site.baseurl }}/images/dumplings/1.jpg)
 ![2]({{ site.baseurl }}/images/dumplings/2.jpg)
 ![3]({{ site.baseurl }}/images/dumplings/3.jpg)
@@ -19,8 +20,3 @@ date: 2018-06-23
 ![11]({{ site.baseurl }}/images/dumplings/11.jpg)
 ![12]({{ site.baseurl }}/images/dumplings/12.jpg)
 ![13]({{ site.baseurl }}/images/dumplings/13.jpg)
-
-
-
-
-
