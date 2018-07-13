@@ -12,8 +12,7 @@ food_array:
   -soup_daikon_mushroom
   -soup_bak_choy
 ---
-
-## Deconstructed Chicken
+Out of a whole (deconstructed) chicken, we decided to make both a stir fry and a soup!
 
 ![raw chicken]({{ site.baseurl }}/images/whole_chicken_two_ways/raw.jpg){:height="40%" width="40%"}{:right}
 
