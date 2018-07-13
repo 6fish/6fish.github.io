@@ -9,9 +9,5 @@ sitemap:
 ---
 ## About Six Fish
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
-
 Hi! We're Six and Fish, two millenials who love food and fitness. Join us through our cooking and photography adventures (and mishaps)! 
 
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
