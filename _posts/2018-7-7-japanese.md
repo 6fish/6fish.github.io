@@ -23,7 +23,7 @@ Lastly, the omurice ingredients were probably the most hit-or-miss. We basically
 
 ![3]({{ site.baseurl }}/images/sushi_miso/3.jpg){:height="40%" width="40%"}
 
-And of course, omurice requires hours of practice, the right equipment, and lots of eggs. We had none of these things. But, we practiced about four times before this (none successful, of course) and had about six eggs, so we could mess up maybe once (and we did). Still, we got something that tasted really good, though its presentation was maybe a little questionable.
+And of course, omurice requires hours of practice, the right equipment, and lots of eggs. We had none of these things. But, we practiced about four times before this (none successful, of course) and had about six eggs, so we could mess up maybe once (and we did). In addition to only having a sticky-ish pan with not-very-sloping sides, we also didn't have anything to shape the fried rice with, so we used a rectangular lunch container, but the rice kind of fell apart while we were trying to put the omelet on top. Still, we got something that tasted really good, though its presentation was maybe a little questionable.
 
 ![4]({{ site.baseurl }}/images/sushi_miso/4.jpg){:height="40%" width="40%"}
 
