@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Miso Soup, Omurice, and Sushi
-date: 2018-06-30
+date: 2018-07-07
 ---
 
 This week, we tackled something a little out of our comfort range: trope-y Japanese food. In particular, neither of us actually knew how to make this stuff: salmon head miso soup, omurice, and sushi. The inspiration for this was actually a new all-you-can-eat sushi place by Jesus Green (shoutout to Yamato II), which we decided was too expensive but made us crave some Japanese stuff. Of course, if we did some Japanese food project, we had to include omurice (for the aesthetics, Fish insisted).
