@@ -3,7 +3,7 @@ title:              6Fish
 bio:                'Food, fun, and fotos'
 description:        "Food, fun, and fotos"
 locale:             en_US
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
@@ -35,7 +35,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-instagram:          sixfish
+twitter:            default
+facebook:           default
+instagram:          default
+github:             default
 
 # personal
 location:           Cambridge, UK
