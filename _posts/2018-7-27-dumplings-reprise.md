@@ -10,7 +10,7 @@ For this week back in the good old Cambridge, though, we decided to revamp an <a
 
 This time, we started truly from scratch, making our own dough and everything. We decided this method is strictly better than buying the skins, because 1. cost and 2. we didn't have to wait for anything to defrost. The filling was different: we chose pork and chives (jiu cai, for those Chinese speakers).
 
-We started the dough early on, since we found from <a href="https://6fish.github.io/blog/bing/"> experience project </a> that resting it helps it get nice and plushy ("like a baby's bottom"). We (Six, mainly) kneaded it with all our might, and we let it rest while we shopped for the rest of the ingredients.
+We started the dough early on, since we found from <a href="https://6fish.github.io/blog/bing/"> experience </a> that resting it helps it get nice and plushy ("like a baby's bottom"). We (Six, mainly) kneaded it with all our might, and we let it rest while we shopped for the rest of the ingredients.
 
 ![1]({{ site.baseurl }}/images/dumplings_2/1.jpg){:height="40%" width="40%"}{:right}
 ![2]({{ site.baseurl }}/images/dumplings_2/2.jpg){:height="40%" width="40%"}{:right}
