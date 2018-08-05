@@ -6,9 +6,9 @@ date: 2018-07-27
 
 So the first thing you might notice is that we've missed a week (or maybe not). You're right! We were in Luxembourg, eating chocolate cake, an overpriced (and underwhelming) sushi buffet, and some pretty awesome traditional Lux food. (Shoutout to Six's friend, ICMindTheCrap.)
 
-For this week back in the good old Cambridge, though, we decided to revamp an <a href="https://6fish.github.io/blog/dumplings/"> old project </a>: dumplings! We finally finished the dumplings from last time, but we missed the convenience of frozen dumplings, so we thought we should give at another go. 
+For this week back in the good old Cambridge, though, we decided to revamp an <a href="https://6fish.github.io/blog/dumplings/"> old project </a>: dumplings! We finally finished the dumplings from last time, but we missed the convenience of frozen dumplings, so we thought we should give at another go.
 
-This time, we started truly from scratch, making our own dough and everything. The filling was different: we chose pork and chives (jiu cai, for those Chinese speakers).
+This time, we started truly from scratch, making our own dough and everything. We decided this method is strictly better than buying the skins, because 1. cost and 2. we didn't have to wait for anything to defrost. The filling was different: we chose pork and chives (jiu cai, for those Chinese speakers).
 
 We started the dough early on, since we found from <a href="https://6fish.github.io/blog/bing/"> experience project </a> that resting it helps it get nice and plushy ("like a baby's bottom"). We (Six, mainly) kneaded it with all our might, and we let it rest while we shopped for the rest of the ingredients.
 
